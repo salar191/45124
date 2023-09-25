@@ -1,4 +1,4 @@
-:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profile
+/bin:$HOME/go/bin" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 ---------------------------------------------------
