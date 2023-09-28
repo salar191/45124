@@ -1,4 +1,4 @@
-n" >> $HOME/.bash_profile
+ash_profile
 source $HOME/.bash_profile
 
 ---------------------------------------------------
