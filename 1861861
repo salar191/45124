@@ -1,6 +1,4 @@
-com/celestiaorg/networks
--------------------------------
-cd $HOME
+com/
 rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
