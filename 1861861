@@ -1,5 +1,4 @@
-"amir8372"
-CELESTIA_CHAIN="mamaki"
+IA_CHAIN="mamaki"
 
 ----------------------------------------------------------
 echo 'export CELESTIA_CHAIN='$CELESTIA_CHAIN >> $HOME/.bash_profile
