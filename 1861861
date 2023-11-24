@@ -1,4 +1,4 @@
-\"/g' $HOME/.celestia-app/config/config.toml
+ $HOME/.celestia-app/config/config.toml
 
 ---------------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
