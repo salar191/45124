@@ -1,5 +1,4 @@
-----------------------------------------------
-echo $BOOTSTRAP_PEERS
+AP_PEERS
 
 ------------------------------------------------
 sed -i.bak -e "s/^bootstrap-peers *=.*/bootstrap-peers = \"$BOOTSTRAP_PEERS\"/" $HOME/.celestia-app/config/config.toml
